@@ -1,0 +1,86 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+
+#red{
+    height: 100vh;
+    width: 70%;
+    background-color: white;
+    
+    
+     
+}
+#black{   
+width: 30%;
+height: 100vh;
+background-color: black;
+}
+h3{
+    color: white;
+    font-size: 30px;
+}
+h5{
+    color: white;
+    font-size: 36px;
+}
+h1{
+    color: black;
+}
+#conteiner{
+    display: flex;
+    
+    
+}
+#divfilho{
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+#divfilho2{
+    height: 75vh;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+#grupo{
+    width: 44%;
+    height: 60vh;
+}
+#gp2{
+    height: 20px;
+    height: 10vh;
+}
+#divcoroa{
+    width: 20px;
+    height: 10vh;
+    background-color: white;
+    display: flex;
+    justify-content:right;
+    
+}
+#divdoh5{
+    width: 90%;
+    height: 70vh;
+    background-color: black;
+    display: flex;
+    align-items:start;
+    justify-content:center;
+}
+#divh3{
+    width: 60vh;
+    height: 50px;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+
+}
