@@ -57,3 +57,19 @@ height: 200px;
 	right: -160vh;
 	top: 5vh;
   }
+  nav ul{
+	display: flex;
+	list-style: none;
+  }
+  nav li{
+	font-size: 20px;
+	color: #ffff;
+	text-decoration: none;
+  }
+  nav a{
+	margin-right: 50px;
+	
+  }
+  nav a:hover{
+	text-decoration: underline;
+  }
