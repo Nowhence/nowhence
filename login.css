@@ -1,0 +1,192 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+#branca{
+    background-color: rgb(rgb(255, 0, 0));
+    width: 80%;
+    height: 100vh;    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+    
+}
+
+#organizacao{
+    background-color: rgb(255, 255, 255);
+    width: 60%;
+    height: 100vh;
+    display: flex;
+    flex-wrap: wrap;
+    
+    
+}
+
+
+#formulario{
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+    height: 85vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    
+}
+
+#preta{
+    background-color: black;
+    width: 25%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+}
+#info{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+}
+h1{
+    color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: left;
+    
+    
+
+}
+
+h2{
+    color: #000000;
+    font-size: xx-large;
+    font-size: 220%
+    
+    
+}
+#titulo{
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    padding: 40px;
+    background-color: rgb(255, 255, 255);
+    height: 15vh;
+    width: 80%;
+
+}
+
+h3{
+    color: #ffffff;
+    display: flex;
+    font-size: medium;
+    font-size: 140%;
+    justify-content: left;
+   
+
+}
+
+h4{
+    color: #ffffff;
+    display: flex;
+    font-size: smaller;
+    justify-content: left;
+   
+    font-size: 150%;
+    
+    @font-face {
+        font-family: ;
+        src: url(montserrat);
+    }
+
+}
+.container{
+    display: flex;
+    width: 100%;
+    
+}
+
+#Bem-vindo{
+    font-size: x-large;
+    
+}
+
+h1{
+    color: white;
+    @font-face {
+        font-family: ;
+        src: url(montserrat);
+    }
+
+    
+}
+
+.textField{
+    width: 324px;
+    height: 40px;
+    border-radius: 3px;
+    margin: 10px 0px;
+    font-family: Montserrat;
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 19px;
+
+    
+}
+#crieasuaconta{
+    margin-right:700px;
+}
+
+.button1{
+    width: 150px;
+    height: 40px;
+    border-color: #ffffff;
+    border-radius: 10px;
+    margin: 10px 0px;
+    font-family: Montserrat;
+    font-weight: 500;
+    font-size: 13px;
+    background-color: rgb(0, 0, 0);
+    color: #ffffff;
+    
+
+}
+
+
+
+
+.button2{
+    width: 324px;
+    height: 40px;
+    border-radius: 10px;
+    margin: 10px 0px;
+    font-family: Montserrat;
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 19px;
+    background-color: black;
+    color: #ffffff;
+
+
+}
+.button2:hover{
+    background-color: white;
+    color: black;
+    cursor: pointer;
+}
+.button1:hover{
+    background-color: rgb(255, 255, 255);
+    color: black;
+}
+#divcoroa{
+    width: 20%;
+    height: 15vh;
+    display: flex;
+    justify-content: left;
+   background-color: rgb(255, 255, 255)   ; 
+}
+
+
+
+
